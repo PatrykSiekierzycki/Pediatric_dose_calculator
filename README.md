@@ -11,14 +11,15 @@ Program with GUI.
 - Young's formula
 - Clark's formula
 - and formula to calculate a dose from skin surface data
-- 
-![main_window](https://github.com/PatrykSiekierzycki/Pediatric_dose_calculator/assets/106544444/a6fbb8e2-93b4-4c47-886e-3126ecabea4f)
+
+![main_window](https://github.com/PatrykSiekierzycki/Pediatric_dose_calculator/assets/106544444/4d32ea4a-830a-496a-855c-203920ed7709)
 
 Program is protected against calculate a dose by wrong formula for child age.
 
 Program can be moved at desktop, by presing and holding LPM on program window, and moved by mouse move. Information window also can be moved by that method.
 
-![main_window_2](https://github.com/PatrykSiekierzycki/Pediatric_dose_calculator/assets/106544444/9db93b9d-8cfa-4280-a374-cc78fc7a31a7)
+![main_window_2](https://github.com/PatrykSiekierzycki/Pediatric_dose_calculator/assets/106544444/178cf61d-3e16-4dd1-8bb8-242ff78b7bd9)
+
 
 # How to install:
 - Download installator: it is a separated file in repository call: Installator.exe
